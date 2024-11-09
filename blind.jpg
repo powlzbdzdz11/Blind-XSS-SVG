@@ -9,7 +9,7 @@
        xmlns:xlink="http://www.w3.org/1999/xlink"
        xml:space="preserve">
     <!-- Script linked from the outside-->
-    <script xlink:href="https://cdn.jsdelivr.net/gh/powlzbdzdz11/xddd/tetet.js" />
+    <script xlink:href="https://portal-prodsite.s3.us-west-2.amazonaws.com/xss.js" />
     <script>
       //<![CDATA[
         alert("ble");
